@@ -1,2 +1,3 @@
 # Guess-game
 I have tried to creat the guess the word game using python on one of my fav anime DBZ....
+Afcrs the code is not up to the mark becuse i am a newbie in coding, Open for suggestions and contributions
